@@ -1,0 +1,1 @@
+uname print with no options
